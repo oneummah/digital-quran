@@ -1,0 +1,223 @@
+body {
+  font-size: 2em;
+  margin: 0;
+  padding: 0;
+}
+
+a:link {color: #57391C;}
+a:visited {color: #57391C;}
+a:hover {color: #AC7238;}
+a:active {color: #57391C;}
+
+.main-body {
+  background-color: #57391C;
+  background-image: url(../../images/turkish-background-full.jpg);
+}
+
+@font-face {
+  font-family: Sheherazade;
+  src: url("sheherazaderegot.eot");
+  src: local("Sheherazade"),url("sheherazaderegot.svg#sheherazaderegot") format("svg");
+}
+
+.clr {
+  clear: both;
+}
+
+#container {
+/*  overflow: hidden; */
+padding: 0;
+margin: 0;
+}
+
+#header {
+  background-color: #57391C;
+  height: 20px;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+}
+
+
+#main-header {
+  background-image: url(../../images/title-banner.jpg);
+  background-color: #57391C;
+  height: 183px;
+  width: 828px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#contents {
+  width: 828px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #57391C;
+  font-family: Georgia, serif;
+  font-size: 0.7em;
+  background-color: white;
+  text-align: center;
+  padding: 4px;
+}
+
+#fontdownload {
+  font-size: 0.7em;
+}
+
+.whitelink {
+  color: white;
+  font-size: 14px;
+  text-align: center;
+}
+
+#navcontainer ul
+{
+text-align: center;
+padding-bottom: 5px;
+padding-top: 10px;
+padding-left: 0;
+padding-right: 0;
+margin-top: 0;
+/* cancels gap caused by top padding in Opera 7.54 */
+margin-left: 0;
+background-color: #57391C;
+color: white;
+width: 100%;
+font-family: Tahoma, Verdana,sans-serif;
+font-size: 14px;
+line-height: 18px;
+/* fixes Firefox 0.9.3 */
+}
+
+#navcontainer ul li
+{
+display: inline;
+padding-left: 0;
+padding-right: 0;
+padding-bottom: 5px;
+/* matches link padding except for left and right */
+padding-top: 5px;
+margin: 0;
+}
+
+#navcontainer ul li a
+{
+padding-left: 5px;
+padding-right: 5px;
+padding-bottom: 5px;
+padding-top: 5px;
+color: white;
+text-decoration: none;
+border-right: 1px solid #fff;
+border-left: 1px solid #fff;
+border-top: 1px solid #fff;
+}
+
+#navcontainer ul li a:hover
+{
+background-color: #fff;
+color: black;
+}
+
+#navcontainer #active a { 
+  background: white;
+  color: black;
+ }
+
+
+#arabic {
+  width: 45%;
+  padding: 4px;
+  margin: 0;
+}
+
+#english {
+  width: 45%;
+  padding: 0;
+  margin: 0;
+  float: left;
+}
+
+.qurantext {
+  margin: 0 4px 0 4px;
+  width: 90%;
+  height: 100%;
+  min-height: 100%;
+  border-top: 3px dotted #57391C;
+  padding: 0;
+  float: left;
+}
+
+.column1 {
+  width: 50%;
+  padding-right: 12px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  margin-right: 10px;
+  font-family: Scheherazade;
+}
+
+.column2 {
+  direction: ltr;
+  font-size: 0.7em;
+  width: 50%;
+  padding-bottom: 20px;
+  padding-left: 12px;
+}
+
+.atitle {
+  font-family: Scheherazade, serif;
+  font-size: 2em;
+  color: green;
+  margin: 0;
+  padding: 0;
+ }
+
+.ttitle {
+  font-family: Georgia, serif;
+  font-size: 1.0em;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.etitle {
+  font-family: Georgia, serif;
+  font-size: 1.0em;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.revelation {
+  font-family: Georgia, serif;
+  font-size: 0.8em;
+  color: #aaa;
+}
+
+.verserows {
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+}
+
+.header {
+  font-family: Scheherazade, serif;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+}
+
+#footer {
+  border-top: 1px dotted #57391C;
+  width: 100%;
+  direction: ltr;
+  font-family: Georgia, serif;
+  font-size: 0.5em;
+  color: #aaa;
+  text-align: center;
+  background-color: white;
+  padding: 0;
+  margin: 0;
+}
