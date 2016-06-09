@@ -16,15 +16,6 @@
 <div id="contents">
 <p id="fontdownload">For optimum reading, we recommend downlading this <a href="ScheherazadeRegOT.ttf">arabic font</a>.  For a complete Qur'an study tool, download <a href="http://zekr.org/">Zekr</a>.</p>
 
-<p>Help keep our Qur'an section Ad-free.  Please donate today.
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="F8SHNDBGWDHEA">
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-</p>
-
 <p><a href="http://www.oneummah.net/quran/book/1.html">1. Al-Fatiha / The Opening</a></p>
 <p><a href="http://www.oneummah.net/quran/book/2.html">2. Al-Baqarah / The Cow</a></p>
 <p><a href="http://www.oneummah.net/quran/book/3.html">3. Aal-i-Imran / The Family of Imran</a></p>
